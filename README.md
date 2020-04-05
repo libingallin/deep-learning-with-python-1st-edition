@@ -1,1 +1,1 @@
-# :books: Deep Learning wiht Python 1st edition
+# :books: Deep Learning wiht Python 1st Edition
