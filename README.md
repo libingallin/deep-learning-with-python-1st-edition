@@ -5,7 +5,7 @@ It is recommended to open the jupyter notebook in [nbviewer](https://nbviewer.ju
 
 - [x] chap01-what's deep learning?
 
-- [ ] chap03-Introduction to NN
+- [x] chap03-Introduction to NN
 
   - [x] chap03-1-binary-classification ([IMDB movie reviews](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/imdb))
   
