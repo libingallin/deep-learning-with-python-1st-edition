@@ -11,7 +11,7 @@ It is recommended to open the jupyter notebook in [nbviewer](https://nbviewer.ju
   
   - [x] chap03-2-multiclass-classification ([Reuters newswire](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/reuters))
   
-  - [ ] chap03-3-regression ([Boston housing price](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/boston_housing))
+  - [x] chap03-3-regression ([Boston housing price](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/boston_housing))
 
 - [ ] chap04-fundamentals-of-ml  -- DD: 2020-04-09
 
