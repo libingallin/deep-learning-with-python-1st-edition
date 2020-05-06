@@ -7,11 +7,11 @@ It is recommended to open the jupyter notebook in [nbviewer](https://nbviewer.ju
 
 - chap03-Introduction to NN
 
-  - [x] binary classification ([IMDB movie reviews](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/imdb))
+  - [x] [binary classification](https://nbviewer.jupyter.org/github/libingallin/deep-learning-with-python-e1/blob/master/chap03-1-binary-classification.ipynb) ([IMDB movie reviews](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/imdb))
   
-  - [x] multiclass classification ([Reuters newswire](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/reuters))
+  - [x] [multiclass classification](https://nbviewer.jupyter.org/github/libingallin/deep-learning-with-python-e1/blob/master/chap03-2-mutliclass-classification.ipynb) ([Reuters newswire](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/reuters))
   
-  - [x] regression ([Boston housing price](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/boston_housing))
+  - [x] [regression](https://nbviewer.jupyter.org/github/libingallin/deep-learning-with-python-e1/blob/master/chap03-3-regression.ipynb) ([Boston housing price](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/boston_housing))
 
 - [chap04-fundamentals-of-ml](https://nbviewer.jupyter.org/github/libingallin/deep-learning-with-python-e1/blob/master/chap04-fundamental-of-ml.ipynb)
 
