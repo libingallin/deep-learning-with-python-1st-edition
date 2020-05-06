@@ -1,6 +1,6 @@
 # :books: Deep Learning with Python 1st Edition
 
-It is recommended to open the jupyter notebook in [nbviewer](https://nbviewer.jupyter.org/).
+It is recommended to open the jupyter notebook in [nbviewer](https://nbviewer.jupyter.org/), or you can click the links below.
 
 
 - [chap01-what's deep learning?](https://nbviewer.jupyter.org/github/libingallin/deep-learning-with-python-e1/blob/master/chap01-what-is-deep-learning.ipynb)
@@ -25,7 +25,7 @@ It is recommended to open the jupyter notebook in [nbviewer](https://nbviewer.ju
 
 - chap06-rnn
 
-  - [x] [process text data]()
+  - [x] [process text data](https://nbviewer.jupyter.org/github/libingallin/deep-learning-with-python-e1/blob/master/chap06-1-process-text-data.ipynb#1.-n-gram-%E5%92%8C%E8%AF%8D%E8%A2%8B-(bag-of-words))
 
   - [x] [rnn](https://nbviewer.jupyter.org/github/libingallin/deep-learning-with-python-e1/blob/master/chap06-2-rnn.ipynb)
 
