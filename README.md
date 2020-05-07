@@ -34,8 +34,16 @@ It is recommended to open the jupyter notebook in [nbviewer](https://nbviewer.ju
   - [x] [1D convnet](https://nbviewer.jupyter.org/github/libingallin/deep-learning-with-python-e1/blob/master/chap06-4-1D-convnet.ipynb)
 
 
-- [ ] chap07-advanced-dl-best-practices
+- chap07-advanced-dl-best-practices
 
-- [ ] chap08-generative-dl
+  - [x] [functional API](https://nbviewer.jupyter.org/github/libingallin/deep-learning-with-python-e1/blob/master/chap07-1-functional-api.ipynb)
 
-- [ ] chap09-conclusions
+- chap08-generative-dl
+
+- chap09-conclusions
+
+- Extral
+
+  - [image augmentation for single image](https://nbviewer.jupyter.org/github/libingallin/deep-learning-with-python-e1/blob/master/image_augmentation_per_image.ipynb)
+
+  - [different codes for one model](https://nbviewer.jupyter.org/github/libingallin/deep-learning-with-python-e1/blob/master/same-model-different-codes.ipynb)
