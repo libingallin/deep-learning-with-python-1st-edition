@@ -40,6 +40,8 @@ It is recommended to open the jupyter notebook in [nbviewer](https://nbviewer.ju
 
 - chap08-generative-dl
 
+  - [x] [text generation](https://nbviewer.jupyter.org/github/libingallin/deep-learning-with-python-e1/blob/master/chap08-1-text-generation-with-lstm.ipynb)
+
 - chap09-conclusions
 
 - Extral
